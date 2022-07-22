@@ -1,9 +1,5 @@
 # CTPlanner
-# Hawaii-Planner
-#Technologies Used
-HTML
-CSS
-Javascript
+
 
 # User Stories
 As a user, I want to be able to search any place and find places/events.
