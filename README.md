@@ -5,6 +5,9 @@
 As a user, I want to be able to search any place and find places/events.
 As a user, I want to clearly see content.
 
+# Description
+With this app, the user will be able to search any city in the world and see popular tourist attractions/events. In the future, the user will be able to take events which they like or would like to see and plan a itinerary for they're vacation.
+
 # API
 https://opentripmap.io/docs
 
