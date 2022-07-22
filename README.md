@@ -11,6 +11,9 @@ With this app, the user will be able to search any city in the world and see pop
 # API
 https://opentripmap.io/docs
 
+#Techs Used
+JSX, HTML, CSS, Javascript
+
 # Wireframes
 <img width="422" alt="Screen Shot 2022-07-21 at 10 28 48 PM" src="https://user-images.githubusercontent.com/106419711/180398038-e1fd7dfa-70b1-4d61-b603-c0e395cef89f.png">
 
